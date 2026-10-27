@@ -1,0 +1,5 @@
+version=0.3
+bundle=sam-kit-0.3.tar.gz.enc
+sha256=57d0470caaec0f19a8a8255def7dfaffb8c47d81abad956bd11c1ca49d703958
+encrypted=aes-256-cbc-pbkdf2
+changes=Your own rules are now kept safe in My-rules.md, so updates no longer undo them; any rule you changed before is carried over and your assistant asks you to confirm it. Also: the setup page names your own bot, clearer Telegram and Google steps, a ready note after the first restart, Claude stays on its tested version, and update downloads retry on a weak line.
