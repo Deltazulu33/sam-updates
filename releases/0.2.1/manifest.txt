@@ -1,0 +1,5 @@
+version=0.2.1
+bundle=sam-kit-0.2.1.tar.gz.enc
+sha256=1025cc0e24e78be370b4c4ec2fc29f10bceca35d06275fa1745e03fee4e14b05
+encrypted=aes-256-cbc-pbkdf2
+changes=Test update 1 (finch-7878 only): fixes 74 to 81 - setup without a screen (own wifi, label, sign in from your phone), reminders from notes, calendar reminders, Sent. rule
