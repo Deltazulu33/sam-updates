@@ -1,0 +1,5 @@
+version=0.4.4
+bundle=sam-kit-0.4.4.tar.gz.enc
+sha256=f2a7d545783ea684b25e83e6f4d15b3a1ce6fc0b8dc6397e4198ff3415e0d0d1
+encrypted=aes-256-cbc-pbkdf2
+changes=Sign in to Claude again from anywhere with /login; a hidden startup question can no longer silence your assistant (answer it from your phone); clearance code wording (fixes 131-133)
