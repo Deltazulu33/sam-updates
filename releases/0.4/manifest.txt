@@ -1,0 +1,5 @@
+version=0.4
+bundle=sam-kit-0.4.tar.gz.enc
+sha256=59dd817e2ac79fa8ea24ac6b7b5f426300b25dfab18e77d3cedb87e7e38ec547
+encrypted=aes-256-cbc-pbkdf2
+changes=Backup and restore to USB, headless setup and wifi fixes, Telegram reconnect after network drops, password Show/Hide, support documents, fixes 89, 92-130
