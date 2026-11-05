@@ -1,0 +1,5 @@
+version=0.5
+bundle=sam-kit-0.5.tar.gz.enc
+sha256=00ddf0cca0f16d6e359a9d6fec340611d7423933304122b91bd4092c2037f535
+encrypted=aes-256-cbc-pbkdf2
+changes=Sign in to Claude again from anywhere: send /login on Telegram; ask when the login expires; a hidden startup question can no longer silence your assistant (it fixes itself, or asks you on your phone); clearance code wording (fixes 131-133)
