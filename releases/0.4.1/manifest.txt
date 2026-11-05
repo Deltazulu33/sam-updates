@@ -1,0 +1,5 @@
+version=0.4.1
+bundle=sam-kit-0.4.1.tar.gz.enc
+sha256=aa33aaf521aaabcc0ebc72f7668300527f7d73a230a2334e8ee364af7f0c4e42
+encrypted=aes-256-cbc-pbkdf2
+changes=Sign in to Claude again from anywhere: send /login on Telegram; clearance code wording (fixes 131, 133)
