@@ -1,0 +1,5 @@
+version=0.5.1
+bundle=sam-kit-0.5.1.tar.gz.enc
+sha256=5546408fac90596a8d7d58cb538082db58bafda800a00f64039d9a64360439a9
+encrypted=aes-256-cbc-pbkdf2
+changes=Customers and quotes (CRM): customer notes, a board in Obsidian and on the home network, board edits confirmed on Telegram (fix 134)
