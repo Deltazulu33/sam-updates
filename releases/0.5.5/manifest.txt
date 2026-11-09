@@ -1,0 +1,5 @@
+version=0.5.5
+bundle=sam-kit-0.5.5.tar.gz.enc
+sha256=15cb6e95c3fffbd9c1b756e4cd787682b8be620b9ab740f6cef6440f0691fc67
+encrypted=aes-256-cbc-pbkdf2
+changes=Email sending after your yes no longer blocked; network buttons on the setup page turn green; photos you send open without a permission question
