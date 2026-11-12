@@ -1,0 +1,5 @@
+version=0.6
+bundle=sam-kit-0.6.tar.gz.enc
+sha256=59f6222808b577db0ff05cd9c1990d81999dd6f7c0889510372618faef5b7d15
+encrypted=aes-256-cbc-pbkdf2
+changes=Customers and the customer board (CRM), setup page buttons and saved Basics, start-your-bot hints, email send after yes without a permission question, network buttons turn green, Telegram photos open without a permission question
