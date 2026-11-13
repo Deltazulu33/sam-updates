@@ -1,0 +1,5 @@
+version=0.6.1
+bundle=sam-kit-0.6.1.tar.gz.enc
+sha256=d486aa4376d72c920b9d9d8f38f356b2c6e619e00a2a30210d4b45a4ef9c0322
+encrypted=aes-256-cbc-pbkdf2
+changes=Test: 0.6 + fix 140 (bounce check), 141 (no Obsidian on new units), 141b (units built with Obsidian keep it exactly as it was), 142 (Zettlr notes app added, background download)
